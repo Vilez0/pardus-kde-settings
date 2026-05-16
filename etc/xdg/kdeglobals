@@ -1,2 +1,6 @@
 [KDE]
-LookAndFeelPackage=org.pardus.desktop
+LookAndFeelPackage=org.pardus.light.desktop
+
+[Theme]
+LookAndFeel=org.pardus.light.desktop
+DarkLookAndFeel=org.pardus.dark.desktop

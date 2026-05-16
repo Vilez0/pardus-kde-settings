@@ -3,18 +3,17 @@
     "KPlugin": {
         "Authors": [
             {
-                "Email": "dev@pardus.org.tr",
-                "Name": "Pardus KDE Developers",
-                "Name[tr]": "Pardus KDE Geliştiricileri"
+                "Email": "qewer@qewer.dev",
+                "Name": "qewer33"
             }
         ],
         "Category": "",
-        "Description": "Pardus Theme",
-        "Description[tr]": "Pardus Teması",
-        "Id": "org.pardus.desktop",
+        "Description": "Pardus Dark Theme",
+        "Description[tr]": "Pardus Karanlık Tema",
+        "Id": "org.pardus.dark.desktop",
         "License": "GPLv2+",
-        "Name": "Pardus",
-        "Name[tr]": "Pardus",
+        "Name": "Pardus Dark",
+        "Name[tr]": "Pardus Karanlık",
         "Website": "https://pardus.org.tr"
     },
     "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
